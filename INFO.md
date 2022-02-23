@@ -1,3 +1,4 @@
 git is awesome!
-new line
+new line add
 test with amend
+new
